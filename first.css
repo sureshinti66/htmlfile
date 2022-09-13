@@ -1,0 +1,11 @@
+.heading {
+    font-family: 'Roboto';
+    text-align: center;
+    color: blue;
+}
+
+button {
+    background-color: yellow;
+    text-align: center;
+    color: white;
+}
